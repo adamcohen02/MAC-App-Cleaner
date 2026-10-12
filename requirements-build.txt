@@ -1,0 +1,3 @@
+# Only needed to build the standalone .app (build_app.sh installs these for you)
+pyinstaller>=6.0
+pillow>=10.0
